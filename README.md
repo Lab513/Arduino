@@ -1,6 +1,8 @@
 Arduino
 ========
 
+JB: I need to modify a couple things in the stepper library, hence the forking of the arduino source code. Of course this is only for my project and shouldn't be used for any other use!
+
 * Arduino is an open-source physical computing platform based on a simple i/o
 board and a development environment that implements the Processing/Wiring
 language. Arduino can be used to develop stand-alone interactive objects or
