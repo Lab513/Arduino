@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JBStepper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+step	KEYWORD2
+setSpeed	KEYWORD2
+version	KEYWORD2
+ISR KEYWORD2
+interruptMe KEYWORD2
+setInterruptFlagUP KEYWORD2
+setInterrupt KEYWORD2
+
+
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+direction	KEYWORD2
+speed	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
