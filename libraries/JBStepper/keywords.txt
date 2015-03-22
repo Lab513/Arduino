@@ -15,9 +15,9 @@ JBStepper	KEYWORD1
 step	KEYWORD2
 setSpeed	KEYWORD2
 version	KEYWORD2
-ISR KEYWORD2
+iSR KEYWORD2
 interruptMe KEYWORD2
-setInterruptFlagUP KEYWORD2
+setInterruptFlag KEYWORD2
 setInterrupt KEYWORD2
 
 
